@@ -9,7 +9,7 @@ namespace TestCircles
     {
         static void Main(string[] args)
         {
-            TestCircles testcircles = new TestCircles();
+         
         }
     }
 }
