@@ -7,9 +7,11 @@ namespace _305_Probs
 {
     class Pizza
     {
-        static void Main(string[] args)
-        {
+        public void Pizza();  
             private string topping;
+        Pizza.Diameter
+    {
+
 
             public string Topping
             {
@@ -29,7 +31,7 @@ namespace _305_Probs
             public static void Main();
         {
             Pizza pizza = new Pizza();
-            Pizza.Topping = 'Pepperoni';
+            Pizza.Topping = "Pepperoni";
         }
         }
 }
