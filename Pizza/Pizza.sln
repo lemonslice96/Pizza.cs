@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayHousePlants.cs", "Di
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCircles.cs", "TestCircles.cs\TestCircles.cs.csproj", "{CD5D31A8-044D-402E-974A-05FC52B8F582}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoSquares.cs", "DemoSquares.cs\DemoSquares.cs.csproj", "{ED5BEFE8-5689-4CAF-903F-A6C1871805E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,6 +27,10 @@ Global
 		{CD5D31A8-044D-402E-974A-05FC52B8F582}.Debug|x86.Build.0 = Debug|x86
 		{CD5D31A8-044D-402E-974A-05FC52B8F582}.Release|x86.ActiveCfg = Release|x86
 		{CD5D31A8-044D-402E-974A-05FC52B8F582}.Release|x86.Build.0 = Release|x86
+		{ED5BEFE8-5689-4CAF-903F-A6C1871805E9}.Debug|x86.ActiveCfg = Debug|x86
+		{ED5BEFE8-5689-4CAF-903F-A6C1871805E9}.Debug|x86.Build.0 = Debug|x86
+		{ED5BEFE8-5689-4CAF-903F-A6C1871805E9}.Release|x86.ActiveCfg = Release|x86
+		{ED5BEFE8-5689-4CAF-903F-A6C1871805E9}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
